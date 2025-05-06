@@ -34,8 +34,11 @@ File Structure
 --------------
 hyprland-cheatsheet/
 ├── app.py
+
 ├── templates/
+
 │   └── cheatsheet.html
+
 └── README.txt
 
 Customization
